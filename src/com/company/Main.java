@@ -22,7 +22,6 @@ public class Main {
         System.out.println("Contents of al: " + al);
 // Remove elements from the array list
         al.remove("F");
-        al.remove("G");
         al.remove(2);
         System.out.println("Size of al after deletions: " +
                 al.size());
